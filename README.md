@@ -1,6 +1,6 @@
 ## Data
 
-The data was provided by the Fraym team. The Excel file is attached in this repository.
+The Excel file is attached in this repository.
 
 ## Notebooks
 
