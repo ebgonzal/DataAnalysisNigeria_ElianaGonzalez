@@ -1,3 +1,7 @@
+## MiniCase
+The following analysis involves modeling the response variable of average expenditure in Nigeria based on different georeferenced variables.
+
+
 ## Data
 
 The Excel file is attached in this repository.
